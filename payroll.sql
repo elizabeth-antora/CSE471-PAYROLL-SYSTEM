@@ -128,7 +128,7 @@ CREATE TABLE `employee` (
 --
 
 INSERT INTO `employee` (`id`, `employee_no`, `firstname`, `middlename`, `lastname`, `department_id`, `position_id`, `salary`) VALUES
-(9, '2020-9838', 'John', 'C', 'Smith', 1, 1, 30000);
+(9, '2022-9838', 'MD', 'Rafique', 'Azmat', 1, 1, 31000);
 
 -- --------------------------------------------------------
 
